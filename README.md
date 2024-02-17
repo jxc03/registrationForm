@@ -1,4 +1,5 @@
 # registrationForm
+Free Code Camp - Learn HTML forms by building a registration form
 
 ## **Step 1** 
 Welcome to the Registration Form project! Start by adding the `!DOCTYPE html` declaration at the top of the document so the browser knows what type of document it's reading.
